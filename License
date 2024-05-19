@@ -1,0 +1,26 @@
+Usage 
+Run the main script here: 
+python main.py 
+
+License 
+This project is licensed under the MIT License.
+
+
+### 2. '.gitignore'
+The '.gitignore' file specifies which files and directions should be ignored by Git. This typically includes the virtual environment directionary, 
+the '.env' file, and other temporary files.
+
+'''plaintext 
+# Virtual environment 
+venv/ 
+
+# Environment variables 
+.env
+
+# Python cache 
+__pycache__/ 
+*.py(cod) 
+
+# Other 
+*.log
+.DS_Store
