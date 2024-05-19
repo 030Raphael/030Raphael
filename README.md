@@ -26,9 +26,6 @@ README.md
   4. Create a .env file and add your OpenAI API key:
      OPENAI_API_KEY=your_openai_api_key_here
 
-$
-$
-$
 
 <!---
 030Raphael/030Raphael is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
