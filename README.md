@@ -40,6 +40,13 @@ openai_project/
 - main.py     # Main Python Script
 - README.md   # Optional:project documentation
 
+// Dieses Projekt ist unter der GNU 
+   General Public License v2.0 lizenziert. 
+   
+// Weitere Informationen finden Sie,
+   unter LICENSE.md im Stammverzeichnis des Projekts.
+
+--------------------------------
 
 // Initializing the Git Repository and Pushing to GitHub
 
